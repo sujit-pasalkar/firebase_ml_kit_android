@@ -5,6 +5,10 @@
  
  Link:
  [visit website](https://firebase.google.com/docs/ml-kit/recognize-text)
+ 
+ code :
+ ```android 
+ ```
 
 ## Face detection
 
